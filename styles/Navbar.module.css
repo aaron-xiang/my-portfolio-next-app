@@ -1,0 +1,18 @@
+.title {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.2rem;
+  background: rgb(41, 41, 41) !important;
+  padding: 20px;
+}
+
+.link {
+  color: white;
+  padding-left: 20px;
+}
+
+.link.active,
+.link:hover {
+  color: #1ebba3;
+}
