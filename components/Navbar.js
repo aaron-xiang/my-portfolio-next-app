@@ -27,6 +27,7 @@ const Container = styled.nav`
   letter-spacing: 0.2rem;
   background: rgb(41, 41, 41) !important;
   padding: 20px;
+  height: 60px !important;
 `;
 
 function Navbar() {
